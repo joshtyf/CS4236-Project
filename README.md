@@ -1,4 +1,4 @@
-# ![powerpoint slide of our paper](Banner.jpg)
+# ![powerpoint slide of our paper](header.jpg)
 # NUS [CS4236](https://nusmods.com/modules/CS4236/cryptography-theory-and-practice) Project
 
 I took CS4236 back in AY21/22 S1 under Prof Hugh. As part of the course assignments, my team and I were tasked to write a simple paper on security formulations for NFTs. 
